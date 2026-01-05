@@ -4,17 +4,17 @@
 - Estado: fallo
 
 ## 👤 Ejecutor
-- Nombre: edward
-- Correo: edwards
+- Nombre: eeje
+- Correo: edward
 
 ## 🌍 Despliegue
 - Entorno: pruebas
-- Rama: test
-- Duración: 1m
+- Rama: 2342
+- Duración: asdfadf
 
 ## 🔀 Commit
-- Autor: asdfa
-- Mensaje: weafasd
-- Hash: asdfadf
+- Autor: adfa
+- Mensaje: asdfad
+- Hash: asdfa
 
-📅 Fecha: 2026-01-05 21:24:39
+📅 Fecha: 2026-01-05 21:31:10
